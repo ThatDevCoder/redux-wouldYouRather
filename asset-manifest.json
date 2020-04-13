@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/redux-wouldYouRather/static/css/main.185aa395.chunk.css",
+    "main.js": "/redux-wouldYouRather/static/js/main.4ec99f6e.chunk.js",
+    "main.js.map": "/redux-wouldYouRather/static/js/main.4ec99f6e.chunk.js.map",
+    "runtime-main.js": "/redux-wouldYouRather/static/js/runtime-main.108e806a.js",
+    "runtime-main.js.map": "/redux-wouldYouRather/static/js/runtime-main.108e806a.js.map",
+    "static/js/2.7fb0b9e5.chunk.js": "/redux-wouldYouRather/static/js/2.7fb0b9e5.chunk.js",
+    "static/js/2.7fb0b9e5.chunk.js.map": "/redux-wouldYouRather/static/js/2.7fb0b9e5.chunk.js.map",
+    "index.html": "/redux-wouldYouRather/index.html",
+    "precache-manifest.680f917d7e74dc2e05c639f5f06af677.js": "/redux-wouldYouRather/precache-manifest.680f917d7e74dc2e05c639f5f06af677.js",
+    "service-worker.js": "/redux-wouldYouRather/service-worker.js",
+    "static/css/main.185aa395.chunk.css.map": "/redux-wouldYouRather/static/css/main.185aa395.chunk.css.map",
+    "static/js/2.7fb0b9e5.chunk.js.LICENSE.txt": "/redux-wouldYouRather/static/js/2.7fb0b9e5.chunk.js.LICENSE.txt",
+    "static/media/react-logo.svg": "/redux-wouldYouRather/static/media/react-logo.ee7cd8ed.svg",
+    "static/media/redux-logo.svg": "/redux-wouldYouRather/static/media/redux-logo.fe29b862.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.108e806a.js",
+    "static/js/2.7fb0b9e5.chunk.js",
+    "static/css/main.185aa395.chunk.css",
+    "static/js/main.4ec99f6e.chunk.js"
+  ]
+}
